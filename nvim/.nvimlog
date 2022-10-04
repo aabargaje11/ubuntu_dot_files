@@ -1,0 +1,2 @@
+WARN  2022-06-13T01:48:45.082 266100 log_path_init:96: Failed to create directory /home/root for writing logs: Unknown system error 1
+WARN  2022-06-13T01:49:37.020 266680 log_path_init:96: Failed to create directory /home/root for writing logs: Unknown system error 1
